@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+# The secret files are located here:
+Allow: /passwords.txt
+Allow: /logs.txt
